@@ -1,6 +1,6 @@
 <p align="center">Cinetag: sua plataforma de streaming de filmes relacionados a tecnologia.</p>
 
-## Assuntos abordados durante o curso
+## Recursos no projeto
 * React
 * React-router-dom
 * Module CSS
